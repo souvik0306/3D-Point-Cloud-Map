@@ -1,3 +1,4 @@
 *.onnx
 Open3D-master/*
 *.zip
+*.gz
