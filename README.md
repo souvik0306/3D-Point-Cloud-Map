@@ -16,4 +16,4 @@ Open3D has been used in a number of published research projects and is actively 
 
  Bottle 2D Image      | Bottle Point Cloud Data |
 | :-----------: | :-----------: |
-|   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/colorImg3.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/depthImg3.png" width="450" height="350">    |
+|   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/colorImg3.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_bottle.jpg" width="450" height="350">    |
