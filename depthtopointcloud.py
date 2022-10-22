@@ -115,7 +115,7 @@ def create_output(vertices, colors, filename):
 		np.savetxt(f,vertices,'%f %f %f %d %d %d')
  
 
-output_file = 'D:\Machine Learning Projects\3D-Point-Cloud-Map\intel-isl\MiDaS\pointCloudDeepLearning.ply'
+output_file = 'pointCloudDeepLearning.ply'
 #Generate point cloud 
 create_output(output_points, output_colors, output_file)
 
