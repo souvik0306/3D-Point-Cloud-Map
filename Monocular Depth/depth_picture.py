@@ -13,7 +13,7 @@ model.setPreferableBackend(cv2.dnn.DNN_BACKEND_CUDA)
 model.setPreferableTarget(cv2.dnn.DNN_TARGET_CUDA)
 
     # Read in the image
-img = cv2.imread(r'Media\colorImg2.jpg')
+img = cv2.imread(r'Media\people.jpg')
 img = cv2.resize(img,(640,480))
 imgHeight, imgWidth, channels = img.shape
 
@@ -46,7 +46,7 @@ cv2.imshow('image', img)
 cv2.imshow('Depth Map', output)
 
 output = output*255
-cv2.imwrite('Media\depthImg2.png', output)
-cv2.imwrite('Media\colorImg2.jpg', img)
+cv2.imwrite('Media\depthImg5.png', output)
+cv2.imwrite('Media\colorImg5.jpg', img)
 
 cv2.waitKey(0)

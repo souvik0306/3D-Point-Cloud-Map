@@ -15,9 +15,9 @@ Open3D has been used in a number of published research projects and is actively 
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/colorImg3.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_bottle.jpg" width="450" height="350">    |
 
- 2D Grayscale Image of a person    | 3D Point Cloud Data of the person |
+ 2D Grayscale Image of a path    | 3D Point Cloud Data of the path |
 | :-----------: | :-----------: |
-|   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/colorImg.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_self.jpg" width="450" height="350">    |
+|   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/path.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_path.jpg" width="450" height="350">    |
 
 ### Conclusion - 
 
