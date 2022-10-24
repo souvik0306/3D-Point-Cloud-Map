@@ -11,7 +11,7 @@ Open3D has been used in a number of published research projects and is actively 
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/Bunny_3D.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/Bunny_3D_pcd.jpg" width="450" height="350">    |
 
-  2D Image of a Bottle     | Point Cloud Data of the Bottle  |
+  2D Image of a Glass     | Point Cloud Data of the Glass  |
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/bottle.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_bottle.jpg" width="450" height="350">    |
 
