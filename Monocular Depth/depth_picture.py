@@ -46,7 +46,7 @@ cv2.imshow('image', img)
 cv2.imshow('Depth Map', output)
 
 output = output*255
-cv2.imwrite('Media\depthImg6.png', output)
-cv2.imwrite('Media\colorImg6.jpg', img)
+cv2.imwrite('Media\Color_Img\depthImg6.png', output)
+cv2.imwrite('Media\Depth_Img\colorImg6.jpg', img)
 
 cv2.waitKey(0)
