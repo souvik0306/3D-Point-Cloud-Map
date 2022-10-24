@@ -15,11 +15,11 @@ Open3D has been used in a number of published research projects and is actively 
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/bottle.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_bottle.jpg" width="450" height="350">    |
 
- 2D Grayscale Image of a path    | 3D Point Cloud Data of the path |
+ 2D Grayscale Image of a Pathway    | 3D Point Cloud Data of the Pathway |
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/path.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_path.jpg" width="450" height="350">    |
 
- 2D Image of a rock    | 3D Point Cloud Data of the rock |
+ 2D Image of a Rock    | 3D Point Cloud Data of the Rock |
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/pole.jpeg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_rock.jpg" width="450" height="350">    |
 ### Conclusion - 
