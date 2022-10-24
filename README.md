@@ -7,15 +7,15 @@ Open3D was developed from a clean slate with a small and carefully considered se
 
 Open3D has been used in a number of published research projects and is actively deployed in the cloud. We welcome contributions from the open-source community.
 
- Bunny 3D Model      | Bunny Point Cloud Data |
+  3D Model of a Bunny     |  Point Cloud Data of the Bunny|
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/Bunny_3D.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/Bunny_3D_pcd.jpg" width="450" height="350">    |
 
- Bottle 2D Image      | Bottle Point Cloud Data |
+  2D Image of a Bottle     | Point Cloud Data of the Bottle  |
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/colorImg3.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_bottle.jpg" width="450" height="350">    |
 
- Self 2D Image      | Self 3D Point Cloud Data |
+ 2D Image of a person    | 3D Point Cloud Data of the person |
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/colorImg.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_self.jpg" width="450" height="350">    |
 
