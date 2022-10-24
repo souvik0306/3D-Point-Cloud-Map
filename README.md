@@ -19,6 +19,9 @@ Open3D has been used in a number of published research projects and is actively 
 | :-----------: | :-----------: |
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/path.jpg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_path.jpg" width="450" height="350">    |
 
+ 2D Grayscale Image of a rock    | 3D Point Cloud Data of the path |
+| :-----------: | :-----------: |
+|   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/pole.jpeg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_rock.jpg" width="450" height="350">    |
 ### Conclusion - 
 
 • Produced a 3D point cloud data map from a 2D monocular RGB image-based depth map using Open3D functions. 
