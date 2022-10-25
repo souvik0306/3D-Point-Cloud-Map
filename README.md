@@ -24,4 +24,5 @@ Open3D has been used in a number of published research projects and is actively 
 |   <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/pole.jpeg" width="450" height="350"> | <image src="https://github.com/souvik0306/3D-Point-Cloud-Map/blob/main/Media/point_cloud_rock.jpg" width="450" height="350">    |
 ### Conclusion - 
 
-• Produced a 3D point cloud data map from a 2D monocular RGB image-based depth map using Open3D functions. 
+• Produced 3D point cloud data maps from 2D monocular RGB image-based depth maps using Open3D functions. 
+• Exploited a PointNet based Object Detection model to classify 3D point cloud data with 81% training accuracy.
