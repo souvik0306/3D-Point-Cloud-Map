@@ -25,4 +25,5 @@ Open3D has been used in a number of published research projects and is actively 
 ### Conclusion - 
 
 • Produced 3D point cloud data maps from 2D monocular RGB image-based depth maps using Open3D functions. 
+
 • Exploited a PointNet based Object Detection model to classify 3D point cloud data with 81% training accuracy.
